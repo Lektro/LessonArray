@@ -13,7 +13,7 @@ public class LessonArray {
         // Once created this cannot change but can be accessed by myFirstArray.length
         double[] myFirstArray = new double[5];
 
-        // User prompted to enter an amount of values determined by the Array size (myFirst.Array.length = 3).
+        // User prompted to enter an amount of values determined by the Array size (myFirst.Array.length = [X]).
         System.out.print("Enter " + myFirstArray.length + " values. Press Enter after each individual number: ");
 
         // Fills up the array with the user input.
